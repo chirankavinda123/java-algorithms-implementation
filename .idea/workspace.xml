@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6afe9657-a8a4-4608-b0c9-dc3c316e5a51" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.project" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/PULL_REQUEST_TEMPLATE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/AVLTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/BTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/BinaryHeap.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/BinarySearchTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/CompactSuffixTrie.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/DisjointSet.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/FenwickTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/Graph.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/HashArrayMappedTrie.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/HashMap.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/ImplicitKeyTreap.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/IntervalSum.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/IntervalTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/KdTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/LCPArray.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/List.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/LowestCommonAncestor.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/Matrix.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/PatriciaTrie.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/QuadTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/Queue.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/RadixTrie.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/RedBlackTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/SegmentTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/SkipList.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/SkipListMap.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/SplayTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/Stack.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/SuffixArray.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/SuffixTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/SuffixTrie.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/TernarySearchTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/Treap.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/TreeMap.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/Trie.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/TrieMap.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/interfaces/IHeap.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/interfaces/IList.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/interfaces/IMap.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/interfaces/IQueue.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/interfaces/ISet.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/interfaces/IStack.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/interfaces/ISuffixTree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/interfaces/ITree.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/AStar.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/BellmanFord.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/BreadthFirstTraversal.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/ConnectedComponents.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/CycleDetection.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/DepthFirstTraversal.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/Dijkstra.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/EdmondsKarp.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/FloydWarshall.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/Johnson.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/Kruskal.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/Prim.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/PushRelabel.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/TopologicalSort.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/TurboMatching.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/mathematics/Coprimes.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/mathematics/DiscreteLogarithm.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/mathematics/Distance.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/mathematics/Division.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/mathematics/Exponentiation.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/mathematics/FastFourierTransform.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/mathematics/GreatestCommonDivisor.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/mathematics/Knapsack.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/mathematics/LUDecomposition.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/mathematics/Modular.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/mathematics/Multiplication.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/mathematics/Permutations.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/mathematics/Primes.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/mathematics/RamerDouglasPeucker.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/numbers/Complex.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/numbers/Integers.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/numbers/Longs.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/search/BinarySearch.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/search/InterpolationSearch.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/search/LinearSearch.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/search/LowerBound.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/search/QuickSelect.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/search/UpperBound.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sequence/ArithmeticProgression.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sequence/FibonacciSequence.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sequence/LargestSumContiguousSubarray.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sequence/LongestCommonSubsequence.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sequence/LongestIncreasingSubsequence.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sequence/LongestPalindromicSubsequence.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sequence/SubsequenceCounter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sorts/AmericanFlagSort.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sorts/BubbleSort.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sorts/CountingSort.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sorts/HeapSort.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sorts/InsertionSort.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sorts/MergeSort.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sorts/QuickSort.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sorts/RadixSort.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/sorts/ShellSort.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/strings/KnuthMorrisPratt.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/strings/Manacher.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/strings/Rotation.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/com/jwetherell/algorithms/strings/StringFunctions.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/AVLTreeTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/AllTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/BTreeTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/BinaryHeapTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/BinarySearchTreeTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/CompactSuffixTrieTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/DisjointSetTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/FenwickTreeTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/GraphTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/HashArrayMappedTreeTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/HashMapTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/ImplicitKeyTreapTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/IntervalSumTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/IntervalTreeTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/KdTreeTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/LCPArrayTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/ListTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/LowestCommonAncestorTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/MatrixTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/PatriciaTreeTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/QuadTreeTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/QueueTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/RadixTrieTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/RedBlackTreeTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/SegmentTreeTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/SkipListMapTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/SkipListTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/SplayTreeTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/StackTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/SuffixArrayTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/SuffixTreeTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/SuffixTrieTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/TernarySearchTreeTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/TreapTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/TreeMapTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/TrieMapTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/TrieTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/common/HeapTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/common/IteratorTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/common/JavaCollectionTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/common/JavaMapTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/common/ListIteratorTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/common/ListTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/common/MapTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/common/QueueTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/common/SetTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/common/StackTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/common/SuffixTreeTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/common/TreeTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/common/Utils.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/timing/DataStructuresTiming.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/timing/SpatialDataStructuresTiming.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/graph/test/BreadthFirstTraversalTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/graph/test/DepthFirstTraversalTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/graph/test/EdmondsKarpTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/graph/test/Graphs.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/graph/test/PushRelabelTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/graph/test/TurboMatchingTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/mathematics/test/CoprimesTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/mathematics/test/DiscreteLogarithmTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/mathematics/test/ExponentiationTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/mathematics/test/GCDTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/mathematics/test/LUDecompositionTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/mathematics/test/MathematicsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/mathematics/test/ModularArithmeticTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/mathematics/test/PermutationsTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/mathematics/test/RamerDouglasPeuckerTest.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/mathematics/timing/ExponentiationTiming.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/mathematics/timing/GCDTiming.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/mathematics/timing/MathematicsTiming.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/numbers/test/Numbers.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/numbers/timing/NumbersTiming.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/search/test/Search.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/search/timing/SearchTiming.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/sequence/test/Sequences.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/sequence/timing/SequencesTiming.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/sorts/test/Sorts.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/sorts/timing/SortsTiming.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/strings/test/KnuthMorrisPrattTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/strings/test/ManacherTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/strings/test/StringRotation.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/strings/test/Strings.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/com/jwetherell/algorithms/strings/timing/StringsTiming.java" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Vertex.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Vertex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-113">
+              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#968#969#0" expanded="true" />
+                <element signature="e#990#991#0" expanded="true" />
+                <element signature="e#1036#1037#0" expanded="true" />
+                <element signature="e#1079#1080#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Edge.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Edge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+              <folding>
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+                <element signature="method#hashCode#0;class#Edge#0" expanded="false" />
+                <element signature="e#1803#1804#0" expanded="true" />
+                <element signature="e#1850#1851#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AStar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/AStar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1538">
+              <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GreedySearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/GreedySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BFS.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bfs_dfs/BFS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1467">
+              <caret line="108" column="57" lean-forward="false" selection-start-line="108" selection-start-column="57" selection-end-line="108" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestAlgorithms.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/TestAlgorithms.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Graph.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniformCostSearchAlgorithm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ucs/UniformCostSearchAlgorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4029">
+              <caret line="244" column="38" lean-forward="false" selection-start-line="244" selection-start-column="29" selection-end-line="244" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/ucs/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DFSAlgorithm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bfs_dfs/DFSAlgorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="121" column="49" lean-forward="false" selection-start-line="121" selection-start-column="49" selection-end-line="121" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compare</find>
+      <find>edge</find>
+      <find>ca</find>
+      <find>came</find>
+      <find>dfs</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/Graph.java" />
+        <option value="$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/AStar.java" />
+        <option value="$PROJECT_DIR$/src/com/wijesekara/astar/TestAStar.java" />
+        <option value="$PROJECT_DIR$/src/com/wijesekara/astar/Vertex.java" />
+        <option value="$PROJECT_DIR$/src/com/wijesekara/astar/Graph.java" />
+        <option value="$PROJECT_DIR$/src/com/wijesekara/astar/Edge.java" />
+        <option value="$PROJECT_DIR$/src/com/wijesekara/astar/Utils.java" />
+        <option value="$PROJECT_DIR$/src/com/wijesekara/astar/AStar.java" />
+        <option value="$PROJECT_DIR$/src/com/wijesekara/astar/GreedySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/asanka/dfs.java" />
+        <option value="$PROJECT_DIR$/src/com/gaya/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/gaya/UCSAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/asanka/App.java" />
+        <option value="$PROJECT_DIR$/src/com/asanka/DFSAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/asanka/BFS.java" />
+        <option value="$PROJECT_DIR$/src/com/gaya/Edge.java" />
+        <option value="$PROJECT_DIR$/src/com/wijesekara/astar/TestAlgorithms.java" />
+        <option value="$PROJECT_DIR$/src/com/wijesekara/Edge.java" />
+        <option value="$PROJECT_DIR$/src/com/gaya/UniformCostSearchAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/com/wijesekara/Graph.java" />
+        <option value="$PROJECT_DIR$/src/com/wijesekara/TestAlgorithms.java" />
+        <option value="$PROJECT_DIR$/src/com/wijesekara/AStar.java" />
+        <option value="$PROJECT_DIR$/src/com/wijesekara/Vertex.java" />
+        <option value="$PROJECT_DIR$/src/com/wijesekara/GreedySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/chiran/TestAlgorithms.java" />
+        <option value="$PROJECT_DIR$/src/com/astar_greedy/TestAlgorithms.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="8" />
+    <option name="width" value="1346" />
+    <option name="height" value="526" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaAlgorithmsImplementation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-algorithms-implementation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAlgorithmsImplementation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-algorithms-implementation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAlgorithmsImplementation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-algorithms-implementation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAlgorithmsImplementation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-algorithms-implementation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="astar_greedy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaAlgorithmsImplementation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-algorithms-implementation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ucs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Chiran\Desktop\UOK\Academics\Year 4\AI\test\java-algorithms-implementation\src\com\gaya" />
+      <recent name="C:\Users\Chiran\Desktop\UOK\Academics\Year 4\AI\test\java-algorithms-implementation\src\com\asanka" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestAlgorithms (1)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.bfs_dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.bfs_dfs.BFS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaAlgorithmsImplementation" />
+      <envs />
+    </configuration>
+    <configuration name="DFSAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.bfs_dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.bfs_dfs.DFSAlgorithm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaAlgorithmsImplementation" />
+      <envs />
+    </configuration>
+    <configuration name="TestAlgorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.wijesekara.astar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.wijesekara.astar.TestAlgorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaAlgorithmsImplementation" />
+      <envs />
+    </configuration>
+    <configuration name="TestAlgorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.astar_greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.astar_greedy.TestAlgorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaAlgorithmsImplementation" />
+      <envs />
+    </configuration>
+    <configuration name="UniformCostSearchAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ucs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ucs.UniformCostSearchAlgorithm" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaAlgorithmsImplementation" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.TestAlgorithms" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BFS" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DFSAlgorithm" />
+      <item index="3" class="java.lang.String" itemvalue="Application.UniformCostSearchAlgorithm" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestAlgorithms (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestAlgorithms (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UniformCostSearchAlgorithm" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DFSAlgorithm" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BFS" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestAlgorithms" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6afe9657-a8a4-4608-b0c9-dc3c316e5a51" name="Default" comment="" />
+      <created>1531704465199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531704465199</updated>
+      <workItem from="1531704473752" duration="740000" />
+      <workItem from="1531804990475" duration="15000" />
+      <workItem from="1536285594415" duration="41092000" />
+      <workItem from="1536370971572" duration="513000" />
+      <workItem from="1536625699868" duration="3562000" />
+      <workItem from="1536709552506" duration="4520000" />
+      <workItem from="1536727828920" duration="12460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62902000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14330709" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.42519686" sideWeight="0.49707174" order="2" side_tool="false" content_ui="tabs" x="0" y="23" width="1024" height="705" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22767204" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40944883" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19180088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/astar_greedy/AStar.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="57" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>current</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>previous</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>current.getEdge(previous,allEdges)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>neighbor</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>gScores.get(neighbor)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tenativeGScore</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tenativeGScore &gt;= gScores.get(neighbor)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>distanceBetween(current, neighbor,(ArrayList) graph.allEdges)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>gScores.get(current)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/AStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="103" column="9" lean-forward="true" selection-start-line="103" selection-start-column="9" selection-end-line="103" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/GreedySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bfs_dfs/DFSAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="72" lean-forward="false" selection-start-line="82" selection-start-column="72" selection-end-line="82" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucs/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucs/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gaya/UCSAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bfs_dfs/BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="41" lean-forward="true" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/TestAlgorithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="47" lean-forward="true" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
+          <folding>
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="method#hashCode#0;class#Edge#0" expanded="false" />
+            <element signature="e#1803#1804#0" expanded="true" />
+            <element signature="e#1850#1851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/AStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="109" column="0" lean-forward="true" selection-start-line="92" selection-start-column="2" selection-end-line="109" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/GreedySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#175#176#0" expanded="false" />
+            <element signature="e#224#225#0" expanded="false" />
+            <element signature="e#276#277#0" expanded="false" />
+            <element signature="e#316#317#0" expanded="false" />
+            <element signature="e#359#360#0" expanded="false" />
+            <element signature="e#392#393#0" expanded="false" />
+            <element signature="e#450#451#0" expanded="false" />
+            <element signature="e#494#495#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/TestAlgorithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="40" lean-forward="false" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
+          <folding>
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="method#hashCode#0;class#Edge#0" expanded="false" />
+            <element signature="e#1803#1804#0" expanded="true" />
+            <element signature="e#1850#1851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="20" lean-forward="false" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#175#176#0" expanded="false" />
+            <element signature="e#224#225#0" expanded="false" />
+            <element signature="e#276#277#0" expanded="false" />
+            <element signature="e#316#317#0" expanded="false" />
+            <element signature="e#359#360#0" expanded="false" />
+            <element signature="e#392#393#0" expanded="false" />
+            <element signature="e#450#451#0" expanded="false" />
+            <element signature="e#494#495#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/AStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="39" lean-forward="false" selection-start-line="99" selection-start-column="39" selection-end-line="99" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="40" lean-forward="true" selection-start-line="102" selection-start-column="40" selection-end-line="102" selection-end-column="40" />
+          <folding>
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="method#hashCode#0;class#Edge#0" expanded="false" />
+            <element signature="e#1803#1804#0" expanded="true" />
+            <element signature="e#1850#1851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#175#176#0" expanded="false" />
+            <element signature="e#224#225#0" expanded="false" />
+            <element signature="e#276#277#0" expanded="false" />
+            <element signature="e#316#317#0" expanded="false" />
+            <element signature="e#359#360#0" expanded="false" />
+            <element signature="e#392#393#0" expanded="false" />
+            <element signature="e#450#451#0" expanded="false" />
+            <element signature="e#494#495#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/AStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" column="39" lean-forward="false" selection-start-line="99" selection-start-column="39" selection-end-line="99" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/AStar.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/Graph.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/AStar.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/Graph.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-670">
+          <caret line="642" column="25" lean-forward="false" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/jwetherell/algorithms/graph/AStar.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/jwetherell/algorithms/data_structures/Graph.java" />
+    <entry file="file://$PROJECT_DIR$/test/com/jwetherell/algorithms/graph/test/Graphs.java" />
+    <entry file="file://$PROJECT_DIR$/test/com/jwetherell/algorithms/data_structures/test/TernarySearchTreeTests.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="457" column="0" lean-forward="false" selection-start-line="457" selection-start-column="0" selection-end-line="457" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gaya/UCSAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucs/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bfs_dfs/BFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1467">
+          <caret line="108" column="57" lean-forward="false" selection-start-line="108" selection-start-column="57" selection-end-line="108" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bfs_dfs/DFSAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="121" column="49" lean-forward="false" selection-start-line="121" selection-start-column="49" selection-end-line="121" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucs/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ucs/UniformCostSearchAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4029">
+          <caret line="244" column="38" lean-forward="false" selection-start-line="244" selection-start-column="29" selection-end-line="244" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="method#hashCode#0;class#Edge#0" expanded="false" />
+            <element signature="e#1803#1804#0" expanded="true" />
+            <element signature="e#1850#1851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="4" lean-forward="false" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/GreedySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="38" column="16" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/AStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1538">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/astar_greedy/TestAlgorithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
